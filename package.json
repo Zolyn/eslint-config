@@ -1,6 +1,6 @@
 {
   "name": "@zolyn/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My personal eslint configuration.",
   "main": "index.js",
   "publishConfig": {
