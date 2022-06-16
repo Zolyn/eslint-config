@@ -1,5 +1,5 @@
 module.exports = {
-    extends: ['alloy-patched', 'plugin:import/recommended', 'plugin:import/typescript', 'plugin:prettier/recommended'],
+    extends: ['plugin:import/recommended', 'plugin:import/typescript', 'plugin:prettier/recommended'],
     settings: {
         'import/parsers': {
             '@typescript-eslint/parser': ['.ts', '.tsx']
