@@ -1,3 +1,3 @@
 module.exports = {
-    extends: ['alloy', 'alloy/typescript', './shared.js']
-}
+    extends: ['alloy', 'alloy/typescript', './shared.js'],
+};
